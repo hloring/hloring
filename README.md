@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6787f40d98c00f711751c9c3?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/wide/6787f40d98c00f711751c9c3?variant=dark&roadmaps=java%2Cpython)](https://roadmap.sh)
 
 <!--
 **hloring/hloring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
